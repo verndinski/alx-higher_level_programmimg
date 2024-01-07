@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-FizzBuzz = __import__('12-FizzBuzz').FizzBuzz
+fizzbuzz = __import__('12-fizzbuzz').fizzbuzz
 
-FizzBuzz()
+fizzbuzz()
 print("")
